@@ -1,6 +1,6 @@
 # Data Science Communities in Nairobi
 
-![Data Science Communities Banner Poster](https://www.canva.com/design/DAD9FGDKCjM/68tX6g4diLmF7XzPXn_FOA/view?utm_content=DAD9FGDKCjM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Data Science Communities Banner Poster](https://media-private.canva.com/A_5d8/MAD9FMA_5d8/1/s.png?response-expires=Sat%2C%2023%20May%202020%2015%3A30%3A15%20GMT&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200523T123207Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10687&X-Amz-Credential=AKIAJJATJK7JCUD446NA%2F20200523%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2109d57aafae8f5da6220543ea8831209ff0648dd87f0a25958f7206ab51182a)
 
 |community_name|community_link|organizer|
 |--------------|---------------|--------|
