@@ -1,5 +1,7 @@
 # Data Science Communities in Nairobi
 
+![Data Science Communities Banner Poster](https://www.canva.com/design/DAD9FGDKCjM/68tX6g4diLmF7XzPXn_FOA/view?utm_content=DAD9FGDKCjM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 |community_name|community_link|organizer|
 |--------------|---------------|--------|
 |Africa Data School|<a href="https://www.meetup.com/Africa-Data-School/">https://www.meetup.com/Africa-Data-School/</a>|Titus Gikandi|
