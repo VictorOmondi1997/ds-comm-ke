@@ -1,0 +1,4 @@
+- eldoret region
+- nairobi region
+- nakuru region
+- mombasa region
