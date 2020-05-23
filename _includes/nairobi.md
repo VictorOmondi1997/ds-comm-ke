@@ -1,6 +1,6 @@
 # Data Science Communities in Nairobi
 
-<center><img src="Data Science Communities in Kenya.png" alt="Data Science Communities in Kenya.png"></center>
+<center><img src="https://github.com/VictorOmondi1997/ds-comm-ke/blob/master/_includes/Data%20Science%20Communities%20in%20Kenya.png?raw=true" alt="Data Science Communities in Kenya.png"></center>
 
 |community_name|community_link|organizer|
 |--------------|---------------|--------|
