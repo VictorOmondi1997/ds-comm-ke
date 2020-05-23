@@ -2,7 +2,7 @@
 
 |community_name|community_link|organizer|
 |--------------|---------------|--------|
-|AfterWork DataScience Nairobi|[https://www.meetup.com/AfterWork-Data-Science-Nairobi/](https://www.meetup.com/AfterWork-Data-Science-Nairobi/) |Valentine Mwangi|
+|AfterWork DataScience Nairobi|[[https://www.meetup.com/AfterWork-Data-Science-Nairobi/]] |Valentine Mwangi|
 |Ai Kenya Community|https://www.meetup.com/Ai-Kenya/ |Alfred Ongere|
 |Data Science Nairobi|https://www.meetup.com/Data-Science-Nairobi/ |Alfred Ongere|
 |Master Cohorts|https://www.meetup.com/Master-Data-Science/ |Mariam Haji|
