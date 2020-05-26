@@ -1,4 +1,21 @@
 title: Data Science Communities in Kenya
+tagline: A site for all datascience communities in kenya.
+description: ai-kenya, moringa school, data science communities in kenya.
+url: https://victoromondi1997.me/ds-comm-ke
+author: 
+  twitter: victoromondi197
+twitter:
+  username: victoromondi197
+  card: summary
+logo: _includes/Data Science Communities in Kenya.png
+social:
+  name: Victor Omondi
+  links:
+    - https://facebook.com/VictorOmondi1997
+    - https://facebook.com/VickTheGeek
+    - https://facebook.com/GvnShivukhulu
+    - https://twitter.com/VictorOmondi197
+    - https://victoromondi1997.ml
 email: info.victoromondi@gmail.com
 twitter_username: VictorOmondi197
 github_username: VictorOmondi1997
