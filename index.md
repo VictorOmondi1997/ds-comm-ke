@@ -2,6 +2,6 @@
 layout: default
 ---
 
-{% seo %}
+{% raw %}{% seo %}{% endraw %}
 
 {% include nairobi.md %}
