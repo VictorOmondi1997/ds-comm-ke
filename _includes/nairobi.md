@@ -8,6 +8,7 @@
 |AfterWork DataScience Nairobi|<a href="https://www.meetup.com/AfterWork-Data-Science-Nairobi/">https://www.meetup.com/AfterWork-Data-Science-Nairobi/</a>|Valentine Mwangi|
 |Ai Kenya Community|<a href="https://www.meetup.com/Ai-Kenya/">https://www.meetup.com/Ai-Kenya/</a>|Alfred Ongere|
 |AI Saturdays Nairobi|<a href="https://www.meetup.com/AI-Saturdays-Nairobi/">https://www.meetup.com/AI-Saturdays-Nairobi/</a>|felicity Mecha|
+|Data Science East Africa|<a href="https://twitter.com/DSEAfrica">@DSEAfrica (twitter)</a>|Harun Mbaabu|
 |Data Science Nairobi|<a href="https://www.meetup.com/Data-Science-Nairobi/ ">https://www.meetup.com/Data-Science-Nairobi/</a>|Alfred Ongere|
 |Master Cohorts|<a href="https://www.meetup.com/Master-Data-Science/">https://www.meetup.com/Master-Data-Science/</a>|Mariam Haji|
 |Nairobi Data Science for Business Meetup|<a href="https://www.meetup.com/Nairobi-Data-Science-for-Business-Meetup/">https://www.meetup.com/Nairobi-Data-Science-for-Business-Meetup/</a>|Valentine Mwangi|
