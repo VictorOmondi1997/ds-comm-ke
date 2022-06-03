@@ -1,5 +1,3 @@
-{% raw %}{% seo %}{% endraw %}
-
 ---
 layout: default
 ---
