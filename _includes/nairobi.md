@@ -12,8 +12,9 @@
 |Data Science Nairobi|<a href="https://www.meetup.com/Data-Science-Nairobi/ ">https://www.meetup.com/Data-Science-Nairobi/</a>|Alfred Ongere|
 |Master Cohorts|<a href="https://www.meetup.com/Master-Data-Science/">https://www.meetup.com/Master-Data-Science/</a>|Mariam Haji|
 |Nairobi Data Science for Business Meetup|<a href="https://www.meetup.com/Nairobi-Data-Science-for-Business-Meetup/">https://www.meetup.com/Nairobi-Data-Science-for-Business-Meetup/</a>|Valentine Mwangi|
-|Nairobi Women in Data|<a href="https://www.meetup.com/Nairobi-Women-in-Data/">https://www.meetup.com/Nairobi-Women-in-Data/</a>|Women in Data|
+|Nairobi Women in Data|<a href="https://www.meetup.com/Nairobi-Women-in-Data/">https://www.meetup.com/Nairobi-Women-in-Data/</a>|Philomena Mbura|
 |Nairobi Women in Machine Learning & Data Science|<a href="https://www.meetup.com/Nairobi-Women-in-Machine-Learning-Data-Science/">https://www.meetup.com/Nairobi-Women-in-Machine-Learning-Data-Science/</a>|WiMLDS|
 |PyData Nairobi|<a href="https://www.meetup.com/PyData-Nairobi/">https://www.meetup.com/PyData-Nairobi/</a>|Robin Kiplangat|
 |\*Python-Nairobi|<a href="https://www.meetup.com/Python-Nairobi/">https://www.meetup.com/Python-Nairobi/</a>|James Nzomo|
 |R Users Group Kenya (RUGK)|<a href="https://www.meetup.com/R-Users-Group-Kenya-RUGK/">https://www.meetup.com/R-Users-Group-Kenya-RUGK/</a>|Cheruiyot|
+|Techblurbs|[https://chat.whatsapp.com/HVJg7SoDhEB2HP3rZ9rLKL](https://chat.whatsapp.com/HVJg7SoDhEB2HP3rZ9rLKL)|Eliud & Vick|
