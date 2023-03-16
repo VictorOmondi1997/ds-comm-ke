@@ -17,3 +17,4 @@
 |PyData Nairobi|<a href="https://www.meetup.com/PyData-Nairobi/">https://www.meetup.com/PyData-Nairobi/</a>|Robin Kiplangat|
 |\*Python-Nairobi|<a href="https://www.meetup.com/Python-Nairobi/">https://www.meetup.com/Python-Nairobi/</a>|James Nzomo|
 |R Users Group Kenya (RUGK)|<a href="https://www.meetup.com/R-Users-Group-Kenya-RUGK/">https://www.meetup.com/R-Users-Group-Kenya-RUGK/</a>|Cheruiyot|
+|Techblurbs|[https://chat.whatsapp.com/HVJg7SoDhEB2HP3rZ9rLKL](https://chat.whatsapp.com/HVJg7SoDhEB2HP3rZ9rLKL)|Eliud & Vick|
